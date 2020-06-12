@@ -177,7 +177,7 @@
   </Account>
   <Account>
     <AccountID>1195</AccountID>
-    <Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med  null sats, motkonto</Description>
+    <Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med null sats, motkonto</Description>
     <Description ISOLanguageCode="ENG">Basis import of goods with zero rate, contra account</Description>
   </Account>
   <Account>
@@ -572,7 +572,7 @@
   </Account>
   <Account>
     <AccountID>1475</AccountID>
-    <Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med  null sats, motkonto</Description>
+    <Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med null sats, motkonto</Description>
     <Description ISOLanguageCode="ENG">Basis import of goods with zero rate, contra account</Description>
   </Account>
   <Account>
@@ -753,7 +753,7 @@
   <Account>
     <AccountID>1616</AccountID>
     <Description ISOLanguageCode="NOB">Inngående merverdiavgift - innførsel av varer, middels sats</Description>
-    <Description ISOLanguageCode="ENG">Input VAT -  import of goods, medium rate</Description>
+    <Description ISOLanguageCode="ENG">Input VAT - import of goods, medium rate</Description>
   </Account>
   <Account>
     <AccountID>1617</AccountID>
@@ -1413,7 +1413,7 @@
   <Account>
     <AccountID>2716</AccountID>
     <Description ISOLanguageCode="NOB">Inngående merverdiavgift - innførsel av varer, middels sats</Description>
-    <Description ISOLanguageCode="ENG">Input VAT -  import of goods, medium rate</Description>
+    <Description ISOLanguageCode="ENG">Input VAT - import of goods, medium rate</Description>
   </Account>
   <Account>
     <AccountID>2717</AccountID>
@@ -1753,7 +1753,7 @@
   <Account>
     <AccountID>3115</AccountID>
     <Description ISOLanguageCode="NOB">Salgsinntekt egentilvirkede varer, utførsel, avgiftsfri</Description>
-    <Description ISOLanguageCode="ENG">Revenue self-produced goods,  exportation, duty free</Description>
+    <Description ISOLanguageCode="ENG">Revenue self-produced goods, exportation, duty free</Description>
   </Account>
   <Account>
     <AccountID>3119</AccountID>
@@ -2092,7 +2092,7 @@
   </Account>
   <Account>
     <AccountID>4085</AccountID>
-    <Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med  null sats, motkonto</Description>
+    <Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med null sats, motkonto</Description>
     <Description ISOLanguageCode="ENG">Basis import of goods with zero rate, contra account</Description>
   </Account>
   <Account>
@@ -3222,7 +3222,7 @@
   </Account>
   <Account>
     <AccountID>7785</AccountID>
-    <Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med  null sats, motkonto</Description>
+    <Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med null sats, motkonto</Description>
     <Description ISOLanguageCode="ENG">Basis import of goods with zero rate, contra account</Description>
   </Account>
   <Account>
@@ -3318,7 +3318,7 @@
   <Account>
     <AccountID>7971</AccountID>
     <Description ISOLanguageCode="NOB">Justering inngående merverdiavgift fast eiendom</Description>
-    <Description ISOLanguageCode="ENG">Ajustment VAT  property</Description>
+    <Description ISOLanguageCode="ENG">Ajustment VAT property</Description>
   </Account>
   <Account>
     <AccountID>7972</AccountID>
